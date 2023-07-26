@@ -1,6 +1,6 @@
 # Covid Proyect Latam
 
-Analysis of data regarding the behavior of COVID-19 in LATAM
+Data analysis regarding the behavior of COVID-19 in LATAM
   
 ## Installation guide
 
